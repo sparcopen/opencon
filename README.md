@@ -1,0 +1,2 @@
+# OpenCon
+Planning OpenCon Openly
