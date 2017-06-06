@@ -1,3 +1,3 @@
-# Welcome to behind the scenes! 
+# Welcome to the OpenCon HQ
 
-We're just getting this off the ground, best to hit watch the repo in the top right for notifications about when there is a bit more going on here. 
+We're just getting this off the ground, best to hit watch the repo in the top right for notifications about when there is a bit more going on here.
