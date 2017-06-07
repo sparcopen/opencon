@@ -8,29 +8,72 @@ On this repository you'll find the discussions we're having, what we're planning
 
 We're just getting this off the ground, best to hit watch the repo in the top right for notifications about when there is a bit more going on here.
 
-# Using Github
+# Using Github
 
 Github was designed for coders to store their projects, but that's not what we're going to use it primarily for. Here, we'll use Github to replace internal email lists, gaant charts, todo lists, with more open practices.
 
 # How to use this repository
 
+If you're worried about using Github, we'll be including some guides soon. However, this section speaks more to the nuance of what different parts of the system will mean to use.
+
 ## Getting notified
+
+There is a good chance you don't need to see everything that happens here as it happens.
+
+![soeasy](http://g.recordit.co/Bo2gHzV96q.gif)
+
+If Gifs aren't your thing...
+> Up in the top right, there's a button that says 'Watch'; click it, and set yourself to 'Watching'. This will send you email notifications of new discussions; if you don't want email, but would like an alert just on GitHub, change the setting in Settings -> Notification Center
+
+For most people, the right setting is "watch". You can adjust your email notification settings on any page.
 
 ## Issues
 
-### When to start, and when to close an issue
+Issues are where we host discussions about OpenCon. They're easy to [find above](https://github.com/sparcopen/opencon/issues).
+
+### When to start an issue
+
+We're trying to be open by default, and use this to centre all to-do's & discussion. So, the answer is always, except:
+* when it concerns fundraising, personnel (or personal) information, or other highly sensitive issues.
+* when it's a todo that you can complete without anyone else's input (to track it, a "- [ ] " on an existing issue might make more sense).
+
+If you're unsure, ask.  
+
+### When to close an issue
+
+When something is "done". This will depend on the issue at hand. A good practice is to, early on, define what "done" means.
+
+Anyone can, and should, close an issue.
+
+Closing an issue is a reversible process. If you think something needs more discussion or something was missed - reopen.
 
 ### Including others
 
+By default, only a fraction of the people included in a repository will be included. To reach out to more you can:
+* "@" them directly by name
+* "@" them by team name:
+ * @sparcopen/oc-opencon
+ * @sparcopen/staff-opencon
+
 ### Assigning
+
+Assigning is used to help people understand who can take action on an issue and who's responsible.
 
 ### Labels
 
-### Milestones
+Labels add meta-data and enable easy sorting of issues.
 
-## Projects
+### Milestones
 
-## Files / Code
+Milestones make issues / to-do's timebound.
+
+## Projects
+
+For now, we're not using projects. However, they could be used to sort our issues by "type", but this can also be done by labels :). 
+
+## Files / Code
+
+For now, we're not going to use Github primarily to store files. Instead, we're going to stick to our normal Google Doc's ways, and simply linkout to our drive & important files.
 
 # Other OpenCon repositories
 
