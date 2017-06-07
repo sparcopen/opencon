@@ -2,11 +2,9 @@
 
 OpenCon is a conference and community dedicated to advancing open research and education. In an effort to walk the talk, while increasing our effectiveness, transparency and openness we're changing our organizing processes to be "open-by-default".
 
+## What you can find here
+
 On this repository you'll find the discussions we're having, what we're planning, what we're making and more.
-
-## State of the repo
-
-We're just getting this off the ground, best to hit watch the repo in the top right for notifications about when there is a bit more going on here.
 
 # Using Github
 
@@ -69,7 +67,7 @@ Milestones make issues / to-do's timebound.
 
 ## Projects
 
-For now, we're not using projects. However, they could be used to sort our issues by "type", but this can also be done by labels :). 
+For now, we're not using projects. However, they could be used to sort our issues by "type", but this can also be done by labels :).
 
 ## Files / Code
 
