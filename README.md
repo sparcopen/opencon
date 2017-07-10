@@ -8,20 +8,20 @@ On this repository you'll find the discussions we're having, what we're planning
 
 # Using Github
 
-Github was designed for coders to store their projects, but that's not what we're going to use it primarily for. Here, we'll use Github to replace internal email lists, gaant charts, todo lists, with more open practices.
+Github was designed for coders to store their projects, but we're using it differently. Here, we'll use Github to replace internal email lists, gantt charts, and to-do lists with a more open system.
 
 # How to use this repository
 
-If you're worried about using Github, we'll be including some guides soon. However, this section speaks more to the nuance of what different parts of the system will mean to use.
+If you're not familiar with using Github, we'll be including some guides soon. For now, this section provides more information on the different parts of the system and how we'll use them.
 
 ## Getting notified
 
-There is a good chance you don't need to see everything that happens here as it happens.
+You can sign up to get notified about activities in this repository, no need to trawl it daily! The Gif below illustrates.
 
 ![soeasy](http://g.recordit.co/Bo2gHzV96q.gif)
 
 If Gifs aren't your thing...
-> Up in the top right, there's a button that says 'Watch'; click it, and set yourself to 'Watching'. This will send you email notifications of new discussions; if you don't want email, but would like an alert just on GitHub, change the setting in Settings -> Notification Center
+> Up in the top right, there's a button that says 'Watch'; click it, and set yourself to 'Watching'. This will send you email notifications of new discussions; if you don't want email, but would like an alert just on GitHub, change the setting in Settings -> Notification Center.
 
 For most people, the right setting is "watch". You can adjust your email notification settings on any page.
 
@@ -45,17 +45,17 @@ If you're unsure, ask.
 
 When something is "done". This will depend on the issue at hand. A good practice is to, early on, define what "done" means.
 
-Anyone can, and should, close an issue.
+Anyone can, and should, close an issue when it is done.
 
 Closing an issue is a reversible process. If you think something needs more discussion or something was missed - reopen.
 
 ### Including others
 
 By default, only a small fraction of the people included in a repository will be included. To reach out to more you can:
-* "@" them directly by name
+* "@" them directly by username
 * "@" them by team name:
- * @sparcopen/oc-opencon
- * @sparcopen/staff-opencon
+  * @sparcopen/oc-opencon
+  * @sparcopen/staff-opencon
 
 NOTE: Many OC members will not see messages by default.
 
@@ -65,7 +65,7 @@ Assigning is used to help people understand who can take action on an issue and 
 
 ### Labels
 
-Labels add meta-data and enable easy sorting of issues.
+Labels add metadata and enable easy sorting of issues.
 
 ### Milestones
 
@@ -77,11 +77,11 @@ For now, we're not using projects. However, they could be used to sort our issue
 
 ## Files / Code
 
-For now, we're not going to use Github primarily to store files. Instead, we're going to stick to our normal Google Doc's ways, and simply linkout to our drive & important files.
+For now, we're generally not using GitHub to store files. Instead, we're going to stick to our normal Google Docs ways, and simply link out to our drive & important files.
 
 # Other OpenCon repositories
 
-We have a couple of other repositories for specific OpenCon projects / datasets. You can find them [here](https://github.com/sparcopen/).
+We have a couple of other repositories for specific OpenCon projects, code, and datasets. You can find them [here](https://github.com/sparcopen/).
 
 # Any Questions?
 
