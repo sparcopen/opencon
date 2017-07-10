@@ -29,6 +29,8 @@ For most people, the right setting is "watch". You can adjust your email notific
 
 Issues are where we host discussions about OpenCon. They're easy to [find above](https://github.com/sparcopen/opencon/issues).
 
+You can respond to an issue from your email client. When you get a notification, just hit reply - no need to use the site.
+
 ### When to start an issue
 
 We're trying to be open by default, and use this to centre all to-do's & discussion. So, the answer is always, except:
@@ -36,6 +38,8 @@ We're trying to be open by default, and use this to centre all to-do's & discuss
 * when it's a todo that you can complete without anyone else's input (to track it, a "- [ ] " on an existing issue might make more sense).
 
 If you're unsure, ask.  
+
+* You can start an issue via email by sending your message to cloo+sparcopen/opencon@cottagelabs.com. The subject is your issue title, the email body is the issue comment.
 
 ### When to close an issue
 
@@ -47,11 +51,13 @@ Closing an issue is a reversible process. If you think something needs more disc
 
 ### Including others
 
-By default, only a fraction of the people included in a repository will be included. To reach out to more you can:
+By default, only a small fraction of the people included in a repository will be included. To reach out to more you can:
 * "@" them directly by name
 * "@" them by team name:
  * @sparcopen/oc-opencon
  * @sparcopen/staff-opencon
+
+NOTE: Many OC members will not see messages by default.
 
 ### Assigning
 
