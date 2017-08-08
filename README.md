@@ -34,7 +34,7 @@ You can respond to an issue from your email client. When you get a notification,
 ### When to start an issue
 
 We're trying to be open by default, and use this to centre all to-do's & discussion. So, the answer is always, except:
-* when it concerns fundraising, personnel (or personal) information, or other highly sensitive issues.
+* when it concerns fundraising, personnel (or personal) information, something we've not announced yet (e.g a big grant activity), or other highly sensitive issues.
 * when it's a todo that you can complete without anyone else's input (to track it, a "- [ ] " on an existing issue might make more sense).
 
 If you're unsure, ask.  
