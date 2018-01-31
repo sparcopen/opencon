@@ -12,18 +12,18 @@ Github was designed for coders to store their projects, but we're using it diffe
 
 # How to use this repository
 
-If you're not familiar with using Github, we'll be including some guides soon. For now, this section provides more information on the different parts of the system and how we'll use them.
+If you're not familiar with using Github, please don't hesitate to reach out. For OC members, all that is required is making an account and responding to messages, which is possible over email as usual. This section provides more information on the different parts of the system and how we'll use them.
 
 ## Getting notified
 
-You can sign up to get notified about activities in this repository, no need to trawl it daily! The Gif below illustrates.
+If you're on the Organizing Committee, you can ignore this section, unless you want to be jnotified about **everything**. For most people, the right setting is "watch", which is the default.
+
+You can adjust your email notification settings as shown by the Gif. Usually, you'll only need to update these if you never want to get an email, or you want to get every email from the repo (even if it doesn't directly concern you). 
 
 ![soeasy](http://g.recordit.co/Bo2gHzV96q.gif)
 
 If Gifs aren't your thing...
 > Up in the top right, there's a button that says 'Watch'; click it, and set yourself to 'Watching'. This will send you email notifications of new discussions; if you don't want email, but would like an alert just on GitHub, change the setting in Settings -> Notification Center.
-
-For most people, the right setting is "watch". You can adjust your email notification settings on any page.
 
 ## Issues
 
@@ -69,11 +69,11 @@ Labels add metadata and enable easy sorting of issues.
 
 ### Milestones
 
-Milestones make issues / to-do's timebound.
+Milestones make issues / to-do's timebound. We occationally use these for specific deadlines, but usually they're used to track our progress generally and note what we want to do each year. E.g our one for 2018 is https://github.com/sparcopen/opencon/milestone/13. 
 
 ## Projects
 
-For now, we're not using projects. However, they could be used to sort our issues by "type", but this can also be done by labels :).
+We use projects to make OpenCon's Gantt Chart: https://github.com/sparcopen/opencon/projects/5. This helps us track and manage our workloads. 
 
 ## Files / Code
 
